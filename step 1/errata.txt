@@ -2,6 +2,8 @@ There are several small issues with the slides used for the recording, which are
 
 On slide 4, the reference group is chosen by hand, instead of being automatically selected.
 
+On slides 6 and 7, terminology of the reference group is refined.
+
 On slide 7, "comparison to 0 false negative rate" is deleted. 
 
 These are fixed in the uploaded slides. Please refer to that version instead.
