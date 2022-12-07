@@ -66,7 +66,7 @@
 64,no,24,existing credits paid back duly till now,radio/television,3181,<100,< 1 year,4,female divorced/separated/married,none,4,savings agreement/life insurance,Younger,none,own,1,skilled employee / official,1,yes,yes,1,1.0
 65,no,27,existing credits paid back duly till now,repairs,5190,no,>= 7 years,4,male single,none,4,savings agreement/life insurance,Older,none,own,4,skilled employee / official,2,yes,yes,1,1.0
 66,no,12,existing credits paid back duly till now,radio/television,2171,<100,< 1 year,2,female divorced/separated/married,none,2,car or other,Middle1,bank,own,1,skilled employee / official,1,none,yes,1,1.0
-67,<200,12,existing credits paid back duly till now,car (new),1007,>1000,1 <= < 4 years,4,male married/widowed,none,1,real estate,Younger,none,own,1,skilled employee / official,1,none,yes,1,1.0
+67,<200,12,existing credits paid back duly till now,car (new),1007,>1000,1 <= < 4 years,4,male married/widowed,none,1,real estate,Younger,none,own,1,skilled employee / official,1,none,yes,1,0.0
 68,no,36,existing credits paid back duly till now,education,1819,<100,1 <= < 4 years,4,male single,none,4,no,Middle2,store,for free,1,skilled employee / official,1,yes,yes,0,0.0
 69,no,36,existing credits paid back duly till now,radio/television,2394,no,1 <= < 4 years,4,female divorced/separated/married,none,4,car or other,Younger,none,own,1,skilled employee / official,1,none,yes,1,1.0
 70,no,36,existing credits paid back duly till now,car (used),8133,<100,1 <= < 4 years,1,female divorced/separated/married,none,2,savings agreement/life insurance,Middle1,bank,own,1,skilled employee / official,1,none,yes,1,1.0
@@ -125,7 +125,7 @@
 123,>200,10,critical account,car (new),781,<100,>= 7 years,4,male single,none,4,no,Older,none,for free,2,skilled employee / official,1,yes,yes,1,1.0
 124,<200,18,existing credits paid back duly till now,furniture/equipment,1924,no,< 1 year,4,female divorced/separated/married,none,3,real estate,Middle1,none,rent,1,skilled employee / official,1,none,yes,0,1.0
 125,<0,12,critical account,car (new),2121,<100,1 <= < 4 years,4,male single,none,2,savings agreement/life insurance,Middle1,none,own,2,skilled employee / official,1,none,yes,1,1.0
-126,<0,12,existing credits paid back duly till now,radio/television,701,<100,1 <= < 4 years,4,male married/widowed,none,2,real estate,Middle2,none,own,1,unskilled - resident,1,none,yes,1,1.0
+126,<0,12,existing credits paid back duly till now,radio/television,701,<100,1 <= < 4 years,4,male married/widowed,none,2,real estate,Middle2,none,own,1,unskilled - resident,1,none,yes,1,0.0
 127,<200,12,existing credits paid back duly till now,repairs,639,<100,1 <= < 4 years,4,male single,none,2,car or other,Middle1,none,own,1,skilled employee / official,1,none,yes,0,1.0
 128,<200,12,critical account,car (used),1860,<100,unemployed,4,male single,none,2,car or other,Middle2,none,own,2,management/ highly qualified employee,1,yes,yes,1,1.0
 129,<0,12,critical account,car (new),3499,<100,1 <= < 4 years,3,female divorced/separated/married,co-applicant,2,real estate,Middle1,none,own,2,skilled employee / official,1,none,yes,0,1.0
@@ -175,10 +175,10 @@
 173,<200,8,existing credits paid back duly till now,radio/television,1414,<100,1 <= < 4 years,4,male single,guarantor,2,real estate,Middle2,none,own,1,skilled employee / official,1,none,no,1,1.0
 174,<0,21,delay in paying off,education,3414,<100,< 1 year,2,male single,none,1,savings agreement/life insurance,Younger,none,own,2,skilled employee / official,1,none,yes,0,0.0
 175,no,30,all credits at this bank paid back duly,car (used),7485,no,unemployed,4,female divorced/separated/married,none,1,real estate,Older,bank,own,1,management/ highly qualified employee,1,yes,yes,0,1.0
-176,<0,12,existing credits paid back duly till now,furniture/equipment,2577,<100,1 <= < 4 years,2,male divorced/separated,none,1,car or other,Older,none,own,1,skilled employee / official,1,none,yes,1,1.0
+176,<0,12,existing credits paid back duly till now,furniture/equipment,2577,<100,1 <= < 4 years,2,male divorced/separated,none,1,car or other,Older,none,own,1,skilled employee / official,1,none,yes,1,0.0
 177,<0,6,critical account,radio/television,338,<1000,>= 7 years,4,male single,none,4,car or other,Older,none,own,2,skilled employee / official,1,none,yes,1,1.0
 178,no,12,existing credits paid back duly till now,radio/television,1963,<100,4 <= < 7 years,4,male single,none,2,car or other,Middle1,none,rent,2,management/ highly qualified employee,2,yes,yes,1,1.0
-179,<0,21,critical account,car (new),571,<100,>= 7 years,4,male single,none,4,real estate,Older,none,own,2,skilled employee / official,1,none,yes,1,0.0
+179,<0,21,critical account,car (new),571,<100,>= 7 years,4,male single,none,4,real estate,Older,none,own,2,skilled employee / official,1,none,yes,1,1.0
 180,no,36,delay in paying off,business,9572,<100,< 1 year,1,male divorced/separated,none,1,car or other,Middle1,none,own,2,skilled employee / official,1,none,yes,0,1.0
 181,<200,36,delay in paying off,business,4455,<100,1 <= < 4 years,2,male divorced/separated,none,2,real estate,Middle1,store,own,2,management/ highly qualified employee,1,yes,yes,0,0.0
 182,<0,21,all credits at this bank paid back duly,car (new),1647,no,1 <= < 4 years,4,male single,none,2,savings agreement/life insurance,Middle2,none,own,2,unskilled - resident,2,none,yes,0,0.0
@@ -204,7 +204,7 @@
 202,no,27,delay in paying off,business,5117,<100,4 <= < 7 years,3,male single,none,4,car or other,Younger,none,own,2,skilled employee / official,1,none,yes,1,1.0
 203,<0,12,existing credits paid back duly till now,retraining,902,<100,4 <= < 7 years,4,male married/widowed,none,4,savings agreement/life insurance,Younger,none,rent,1,skilled employee / official,1,none,yes,0,1.0
 204,no,12,critical account,car (new),1495,<100,>= 7 years,4,male single,none,1,real estate,Middle2,none,own,2,unskilled - resident,2,none,yes,1,1.0
-205,<0,30,critical account,car (used),10623,<100,>= 7 years,3,male single,none,4,no,Middle2,none,for free,3,management/ highly qualified employee,2,yes,yes,1,1.0
+205,<0,30,critical account,car (used),10623,<100,>= 7 years,3,male single,none,4,no,Middle2,none,for free,3,management/ highly qualified employee,2,yes,yes,1,0.0
 206,no,12,critical account,furniture/equipment,1935,<100,>= 7 years,4,male single,none,4,real estate,Older,none,own,3,skilled employee / official,1,yes,yes,1,1.0
 207,<200,12,critical account,domestic appliances,1424,<100,4 <= < 7 years,4,male single,none,3,savings agreement/life insurance,Younger,none,own,1,skilled employee / official,1,none,yes,1,1.0
 208,<0,24,existing credits paid back duly till now,business,6568,<100,1 <= < 4 years,2,male married/widowed,none,2,car or other,Younger,store,own,1,unskilled - resident,1,none,yes,1,0.0
@@ -285,7 +285,7 @@
 283,no,15,critical account,furniture/equipment,1520,no,>= 7 years,4,male single,none,4,savings agreement/life insurance,Older,none,own,1,skilled employee / official,1,none,yes,1,1.0
 284,<200,24,critical account,car (new),3878,<500,< 1 year,4,male divorced/separated,none,2,car or other,Middle2,none,own,1,skilled employee / official,1,yes,yes,1,0.0
 285,<0,47,existing credits paid back duly till now,car (new),10722,<100,< 1 year,1,female divorced/separated/married,none,1,real estate,Middle2,none,own,1,unskilled - resident,1,yes,yes,1,0.0
-286,<0,48,existing credits paid back duly till now,car (used),4788,<100,4 <= < 7 years,4,male single,none,3,savings agreement/life insurance,Younger,none,own,1,skilled employee / official,2,none,yes,1,0.0
+286,<0,48,existing credits paid back duly till now,car (used),4788,<100,4 <= < 7 years,4,male single,none,3,savings agreement/life insurance,Younger,none,own,1,skilled employee / official,2,none,yes,1,1.0
 287,<200,48,delay in paying off,others,7582,<500,unemployed,2,male single,none,4,no,Middle1,none,for free,1,management/ highly qualified employee,1,yes,yes,1,0.0
 288,<200,12,existing credits paid back duly till now,radio/television,1092,<100,1 <= < 4 years,4,female divorced/separated/married,guarantor,4,real estate,Older,none,own,2,skilled employee / official,1,yes,yes,1,1.0
 289,<0,24,delay in paying off,radio/television,1024,<100,< 1 year,4,male married/widowed,none,4,real estate,Older,store,own,1,skilled employee / official,1,none,yes,0,0.0
@@ -374,7 +374,7 @@
 372,no,10,critical account,furniture/equipment,2146,<100,< 1 year,1,female divorced/separated/married,none,3,real estate,Younger,none,rent,2,skilled employee / official,1,none,yes,1,1.0
 373,no,60,critical account,car (new),13756,no,>= 7 years,2,male single,none,4,no,Older,bank,for free,1,management/ highly qualified employee,1,yes,yes,1,0.0
 374,<200,60,all credits at this bank paid back duly,others,14782,<500,>= 7 years,3,female divorced/separated/married,none,4,no,Older,bank,for free,2,management/ highly qualified employee,1,yes,yes,0,0.0
-375,<0,48,all credits at this bank paid back duly,business,7685,<100,4 <= < 7 years,2,female divorced/separated/married,guarantor,4,car or other,Middle2,none,rent,1,skilled employee / official,1,none,yes,0,0.0
+375,<0,48,all credits at this bank paid back duly,business,7685,<100,4 <= < 7 years,2,female divorced/separated/married,guarantor,4,car or other,Middle2,none,rent,1,skilled employee / official,1,none,yes,0,1.0
 376,no,18,delay in paying off,radio/television,2320,<100,unemployed,2,male married/widowed,none,3,real estate,Middle2,none,own,2,skilled employee / official,1,none,yes,1,1.0
 377,no,7,delay in paying off,radio/television,846,no,>= 7 years,3,male single,none,4,no,Middle2,none,for free,1,skilled employee / official,1,none,yes,1,1.0
 378,<200,36,existing credits paid back duly till now,car (new),14318,<100,>= 7 years,4,male single,none,2,no,Older,none,for free,1,management/ highly qualified employee,1,yes,yes,0,0.0
@@ -386,7 +386,7 @@
 384,no,30,delay in paying off,business,4272,<500,1 <= < 4 years,2,male single,none,2,savings agreement/life insurance,Younger,none,own,2,unskilled - resident,1,none,yes,1,1.0
 385,no,18,critical account,radio/television,2238,<100,1 <= < 4 years,2,female divorced/separated/married,none,1,car or other,Younger,none,own,2,skilled employee / official,1,none,yes,1,1.0
 386,no,18,existing credits paid back duly till now,radio/television,1126,no,< 1 year,4,female divorced/separated/married,none,2,real estate,Younger,none,rent,1,skilled employee / official,1,yes,yes,1,1.0
-387,<200,18,critical account,furniture/equipment,7374,<100,unemployed,4,male single,none,4,savings agreement/life insurance,Middle2,store,own,2,management/ highly qualified employee,1,yes,yes,1,0.0
+387,<200,18,critical account,furniture/equipment,7374,<100,unemployed,4,male single,none,4,savings agreement/life insurance,Middle2,store,own,2,management/ highly qualified employee,1,yes,yes,1,1.0
 388,<200,15,critical account,business,2326,<1000,1 <= < 4 years,2,male single,none,4,car or other,Middle1,bank,own,1,skilled employee / official,1,none,yes,1,1.0
 389,no,9,existing credits paid back duly till now,business,1449,<100,4 <= < 7 years,3,female divorced/separated/married,none,2,car or other,Middle1,none,own,2,skilled employee / official,1,none,yes,1,1.0
 390,no,18,existing credits paid back duly till now,car (new),1820,<100,1 <= < 4 years,2,male married/widowed,none,2,savings agreement/life insurance,Middle1,none,own,1,management/ highly qualified employee,1,yes,yes,1,1.0
@@ -418,7 +418,7 @@
 416,<0,12,existing credits paid back duly till now,car (new),2579,<100,< 1 year,4,male single,none,1,real estate,Middle2,none,own,1,unskilled - resident,2,none,yes,0,0.0
 417,<0,18,delay in paying off,education,8471,no,1 <= < 4 years,1,female divorced/separated/married,none,2,car or other,Younger,none,rent,2,skilled employee / official,1,yes,yes,1,0.0
 418,no,21,existing credits paid back duly till now,car (new),2782,<1000,4 <= < 7 years,1,female divorced/separated/married,none,2,car or other,Middle1,bank,own,1,management/ highly qualified employee,1,none,yes,1,1.0
-419,<200,18,existing credits paid back duly till now,car (new),1042,no,1 <= < 4 years,4,female divorced/separated/married,none,2,savings agreement/life insurance,Middle2,none,own,1,skilled employee / official,1,none,yes,0,1.0
+419,<200,18,existing credits paid back duly till now,car (new),1042,no,1 <= < 4 years,4,female divorced/separated/married,none,2,savings agreement/life insurance,Middle2,none,own,1,skilled employee / official,1,none,yes,0,0.0
 420,no,15,existing credits paid back duly till now,car (new),3186,>1000,4 <= < 7 years,2,female divorced/separated/married,none,3,car or other,Younger,none,rent,1,skilled employee / official,1,none,yes,1,1.0
 421,<200,12,existing credits paid back duly till now,car (used),2028,no,1 <= < 4 years,4,male single,none,2,car or other,Middle1,none,own,1,skilled employee / official,1,none,yes,1,1.0
 422,<200,12,critical account,car (new),958,<100,4 <= < 7 years,2,male single,none,3,real estate,Older,none,own,2,unskilled - resident,2,none,yes,1,1.0
@@ -481,7 +481,7 @@
 479,<0,15,critical account,furniture/equipment,1478,<100,>= 7 years,4,male single,none,4,car or other,Older,none,own,2,skilled employee / official,2,yes,yes,1,1.0
 480,<200,12,critical account,radio/television,3573,<100,1 <= < 4 years,1,female divorced/separated/married,none,1,real estate,Younger,none,own,1,unskilled - resident,1,none,yes,1,1.0
 481,<200,24,existing credits paid back duly till now,car (new),1201,<100,< 1 year,4,male single,none,1,savings agreement/life insurance,Younger,none,own,1,skilled employee / official,1,none,yes,1,0.0
-482,<0,30,existing credits paid back duly till now,furniture/equipment,3622,>1000,>= 7 years,4,female divorced/separated/married,none,4,savings agreement/life insurance,Older,none,rent,2,skilled employee / official,1,yes,yes,1,0.0
+482,<0,30,existing credits paid back duly till now,furniture/equipment,3622,>1000,>= 7 years,4,female divorced/separated/married,none,4,savings agreement/life insurance,Older,none,rent,2,skilled employee / official,1,yes,yes,1,1.0
 483,no,15,delay in paying off,furniture/equipment,960,>1000,4 <= < 7 years,3,female divorced/separated/married,none,2,savings agreement/life insurance,Middle1,none,own,2,skilled employee / official,1,none,yes,1,1.0
 484,no,12,critical account,car (new),1163,<1000,1 <= < 4 years,4,male single,none,4,real estate,Older,none,own,1,skilled employee / official,1,yes,yes,1,1.0
 485,<200,6,delay in paying off,car (new),1209,<100,unemployed,4,male single,none,4,savings agreement/life insurance,Older,none,own,1,management/ highly qualified employee,1,yes,yes,0,1.0
@@ -506,7 +506,7 @@
 504,<0,24,existing credits paid back duly till now,car (new),1207,<100,< 1 year,4,female divorced/separated/married,none,4,savings agreement/life insurance,Younger,none,rent,1,skilled employee / official,1,none,yes,0,0.0
 505,no,10,existing credits paid back duly till now,car (new),1309,no,1 <= < 4 years,4,male single,guarantor,4,savings agreement/life insurance,Middle1,none,own,1,unskilled - resident,1,none,yes,0,1.0
 506,>200,15,critical account,car (used),2360,<1000,1 <= < 4 years,2,male single,none,2,car or other,Middle2,none,own,1,skilled employee / official,1,yes,yes,1,1.0
-507,<200,15,all credits at this bank paid back duly,car (new),6850,<500,unemployed,1,male single,none,2,savings agreement/life insurance,Middle2,none,own,1,management/ highly qualified employee,2,yes,yes,0,1.0
+507,<200,15,all credits at this bank paid back duly,car (new),6850,<500,unemployed,1,male single,none,2,savings agreement/life insurance,Middle2,none,own,1,management/ highly qualified employee,2,yes,yes,0,0.0
 508,no,24,existing credits paid back duly till now,radio/television,1413,<100,1 <= < 4 years,4,male married/widowed,none,2,savings agreement/life insurance,Middle1,none,own,1,skilled employee / official,1,none,yes,1,1.0
 509,no,39,existing credits paid back duly till now,car (used),8588,<500,>= 7 years,4,male single,none,2,car or other,Older,none,own,1,management/ highly qualified employee,1,yes,yes,1,1.0
 510,<0,12,existing credits paid back duly till now,car (new),759,<100,4 <= < 7 years,4,male single,none,2,real estate,Younger,none,own,1,skilled employee / official,1,none,yes,0,1.0
@@ -562,7 +562,7 @@
 560,<0,24,existing credits paid back duly till now,car (used),2964,no,>= 7 years,4,male single,none,4,no,Older,bank,for free,1,skilled employee / official,2,yes,yes,1,0.0
 561,<0,24,all credits at this bank paid back duly,radio/television,1546,<100,4 <= < 7 years,4,male single,guarantor,4,car or other,Younger,bank,rent,1,unskilled - resident,1,none,yes,0,1.0
 562,>200,6,delay in paying off,radio/television,683,<100,< 1 year,2,female divorced/separated/married,none,1,savings agreement/life insurance,Middle1,bank,own,1,skilled employee / official,1,none,yes,1,1.0
-563,<200,36,existing credits paid back duly till now,car (new),12389,no,1 <= < 4 years,1,male single,none,4,no,Middle2,none,for free,1,skilled employee / official,1,yes,yes,0,1.0
+563,<200,36,existing credits paid back duly till now,car (new),12389,no,1 <= < 4 years,1,male single,none,4,no,Middle2,none,for free,1,skilled employee / official,1,yes,yes,0,0.0
 564,<200,24,delay in paying off,business,4712,no,1 <= < 4 years,4,male single,none,2,savings agreement/life insurance,Middle2,bank,own,2,management/ highly qualified employee,1,yes,yes,1,0.0
 565,<200,24,delay in paying off,radio/television,1553,<500,4 <= < 7 years,3,female divorced/separated/married,none,2,savings agreement/life insurance,Younger,none,rent,2,skilled employee / official,1,yes,yes,1,1.0
 566,<0,12,existing credits paid back duly till now,car (new),1372,<100,4 <= < 7 years,2,male divorced/separated,none,3,car or other,Middle2,none,own,1,skilled employee / official,1,none,yes,0,0.0
@@ -590,7 +590,7 @@
 588,<0,18,existing credits paid back duly till now,domestic appliances,1217,<100,1 <= < 4 years,4,male married/widowed,none,3,real estate,Older,none,own,1,unskilled - resident,1,yes,yes,0,1.0
 589,<0,12,critical account,furniture/equipment,2246,<100,>= 7 years,3,male single,none,3,savings agreement/life insurance,Older,none,own,2,skilled employee / official,1,none,yes,0,1.0
 590,<0,12,critical account,radio/television,385,<100,4 <= < 7 years,4,female divorced/separated/married,none,3,real estate,Older,none,own,4,unskilled - resident,1,yes,yes,1,1.0
-591,<200,24,delay in paying off,car (new),1965,no,1 <= < 4 years,4,female divorced/separated/married,none,4,car or other,Older,none,rent,2,skilled employee / official,1,yes,yes,1,0.0
+591,<200,24,delay in paying off,car (new),1965,no,1 <= < 4 years,4,female divorced/separated/married,none,4,car or other,Older,none,rent,2,skilled employee / official,1,yes,yes,1,1.0
 592,no,21,existing credits paid back duly till now,business,1572,>1000,>= 7 years,4,female divorced/separated/married,none,4,real estate,Middle2,bank,own,1,unskilled - resident,1,none,yes,1,1.0
 593,<200,24,existing credits paid back duly till now,car (new),2718,<100,1 <= < 4 years,3,female divorced/separated/married,none,4,savings agreement/life insurance,Younger,none,rent,1,unskilled - resident,1,yes,yes,0,0.0
 594,<0,24,all credits at this bank paid back duly,others,1358,no,>= 7 years,4,male single,none,3,car or other,Middle2,store,own,1,management/ highly qualified employee,1,yes,yes,0,0.0
@@ -666,7 +666,7 @@
 664,>200,6,critical account,education,1047,<100,1 <= < 4 years,2,female divorced/separated/married,none,4,savings agreement/life insurance,Older,none,own,1,unskilled - resident,1,none,yes,1,1.0
 665,no,24,critical account,others,6314,<100,unemployed,4,male single,co-applicant,2,no,Middle1,bank,own,2,management/ highly qualified employee,1,yes,yes,1,1.0
 666,<200,30,all credits at this bank paid back duly,furniture/equipment,3496,>1000,1 <= < 4 years,4,male single,none,2,car or other,Middle2,store,own,1,skilled employee / official,2,yes,yes,1,0.0
-667,no,48,all credits at this bank paid back duly,business,3609,<100,1 <= < 4 years,1,female divorced/separated/married,none,1,real estate,Middle1,store,own,1,skilled employee / official,1,none,yes,1,1.0
+667,no,48,all credits at this bank paid back duly,business,3609,<100,1 <= < 4 years,1,female divorced/separated/married,none,1,real estate,Middle1,store,own,1,skilled employee / official,1,none,yes,1,0.0
 668,<0,12,critical account,car (new),4843,<100,>= 7 years,3,male single,co-applicant,4,savings agreement/life insurance,Older,none,rent,2,skilled employee / official,1,yes,yes,0,1.0
 669,>200,30,critical account,radio/television,3017,<100,>= 7 years,4,male single,none,4,savings agreement/life insurance,Older,none,own,1,skilled employee / official,1,none,yes,1,1.0
 670,no,24,critical account,business,4139,<500,1 <= < 4 years,3,male single,none,3,savings agreement/life insurance,Middle1,none,own,2,unskilled - resident,1,yes,yes,1,1.0
@@ -718,7 +718,7 @@
 716,no,30,critical account,radio/television,3077,no,>= 7 years,3,male single,none,2,car or other,Middle2,none,own,2,skilled employee / official,2,yes,yes,1,1.0
 717,no,18,existing credits paid back duly till now,radio/television,1505,<100,1 <= < 4 years,4,male single,none,2,no,Middle1,none,for free,1,management/ highly qualified employee,1,yes,yes,1,1.0
 718,>200,24,critical account,radio/television,3148,no,1 <= < 4 years,3,male single,none,2,car or other,Middle1,none,own,2,skilled employee / official,1,yes,yes,1,1.0
-719,<200,20,no credits taken,car (used),6148,<500,>= 7 years,3,male married/widowed,none,4,car or other,Middle1,bank,own,2,skilled employee / official,1,yes,yes,1,1.0
+719,<200,20,no credits taken,car (used),6148,<500,>= 7 years,3,male married/widowed,none,4,car or other,Middle1,bank,own,2,skilled employee / official,1,yes,yes,1,0.0
 720,>200,9,no credits taken,radio/television,1337,<100,< 1 year,4,male single,none,2,car or other,Middle2,none,own,2,management/ highly qualified employee,1,yes,yes,0,1.0
 721,<200,6,all credits at this bank paid back duly,education,433,>1000,< 1 year,4,female divorced/separated/married,none,2,savings agreement/life insurance,Younger,bank,rent,1,skilled employee / official,2,none,yes,0,1.0
 722,<0,12,existing credits paid back duly till now,car (new),1228,<100,1 <= < 4 years,4,female divorced/separated/married,none,2,real estate,Younger,none,own,1,unskilled - resident,1,none,yes,0,1.0
@@ -765,7 +765,7 @@
 763,no,21,critical account,car (new),12680,no,>= 7 years,4,male single,none,4,no,Middle1,none,for free,1,management/ highly qualified employee,1,yes,yes,0,1.0
 764,no,24,critical account,car (new),2463,<500,4 <= < 7 years,4,male married/widowed,none,3,savings agreement/life insurance,Middle1,none,own,2,skilled employee / official,1,yes,yes,1,1.0
 765,<200,12,existing credits paid back duly till now,radio/television,1155,<100,>= 7 years,3,male married/widowed,guarantor,3,real estate,Middle2,bank,own,2,unskilled - resident,1,none,yes,1,1.0
-766,<0,30,existing credits paid back duly till now,furniture/equipment,3108,<100,< 1 year,2,male divorced/separated,none,4,savings agreement/life insurance,Middle1,none,own,1,unskilled - resident,1,none,yes,0,0.0
+766,<0,30,existing credits paid back duly till now,furniture/equipment,3108,<100,< 1 year,2,male divorced/separated,none,4,savings agreement/life insurance,Middle1,none,own,1,unskilled - resident,1,none,yes,0,1.0
 767,no,10,existing credits paid back duly till now,car (used),2901,no,< 1 year,1,female divorced/separated/married,none,4,real estate,Middle1,none,rent,1,skilled employee / official,1,none,yes,1,1.0
 768,<200,12,critical account,furniture/equipment,3617,<100,>= 7 years,1,male single,none,4,car or other,Middle1,none,rent,3,skilled employee / official,1,yes,yes,1,1.0
 769,no,12,critical account,radio/television,1655,<100,>= 7 years,2,male single,none,4,real estate,Older,none,own,2,unskilled - resident,1,yes,yes,1,1.0
@@ -781,7 +781,7 @@
 779,<200,18,existing credits paid back duly till now,repairs,3872,<100,unemployed,2,female divorced/separated/married,none,4,car or other,Older,none,own,1,skilled employee / official,1,yes,yes,1,1.0
 780,<200,39,critical account,radio/television,4933,<100,4 <= < 7 years,2,male single,guarantor,2,real estate,Younger,none,own,2,skilled employee / official,1,none,yes,0,1.0
 781,no,24,critical account,car (new),1940,>1000,>= 7 years,4,male single,none,4,real estate,Older,none,own,1,skilled employee / official,1,yes,yes,1,1.0
-782,<200,12,no credits taken,retraining,1410,<100,1 <= < 4 years,2,male single,none,2,real estate,Middle1,none,own,1,unskilled - resident,1,yes,yes,1,1.0
+782,<200,12,no credits taken,retraining,1410,<100,1 <= < 4 years,2,male single,none,2,real estate,Middle1,none,own,1,unskilled - resident,1,yes,yes,1,0.0
 783,<200,12,existing credits paid back duly till now,car (new),836,<500,< 1 year,4,female divorced/separated/married,none,2,savings agreement/life insurance,Younger,bank,own,1,unskilled - resident,1,none,yes,0,0.0
 784,<200,20,existing credits paid back duly till now,car (used),6468,no,unemployed,1,male divorced/separated,none,4,real estate,Older,none,own,1,management/ highly qualified employee,1,yes,yes,1,1.0
 785,<200,18,existing credits paid back duly till now,business,1941,>1000,1 <= < 4 years,4,male single,none,2,savings agreement/life insurance,Middle2,none,own,1,unskilled - resident,1,yes,yes,1,1.0
@@ -821,11 +821,11 @@
 819,<0,18,existing credits paid back duly till now,radio/television,1345,<100,1 <= < 4 years,4,male married/widowed,none,3,real estate,Younger,bank,own,1,skilled employee / official,1,none,yes,0,1.0
 820,no,12,existing credits paid back duly till now,car (new),1101,<100,1 <= < 4 years,3,male married/widowed,none,2,real estate,Middle1,none,own,2,skilled employee / official,1,yes,yes,1,1.0
 821,>200,12,existing credits paid back duly till now,radio/television,3016,<100,1 <= < 4 years,3,male married/widowed,none,1,car or other,Younger,none,own,1,skilled employee / official,1,none,yes,1,1.0
-822,<0,36,existing credits paid back duly till now,furniture/equipment,2712,<100,>= 7 years,2,male single,none,2,savings agreement/life insurance,Middle2,bank,own,1,skilled employee / official,2,none,yes,0,1.0
+822,<0,36,existing credits paid back duly till now,furniture/equipment,2712,<100,>= 7 years,2,male single,none,2,savings agreement/life insurance,Middle2,bank,own,1,skilled employee / official,2,none,yes,0,0.0
 823,<0,8,critical account,car (new),731,<100,>= 7 years,4,male single,none,4,real estate,Older,none,own,2,unskilled - resident,1,none,yes,1,1.0
 824,no,18,critical account,furniture/equipment,3780,<100,< 1 year,3,male divorced/separated,none,2,car or other,Middle2,none,own,2,management/ highly qualified employee,1,yes,yes,1,1.0
 825,<0,21,critical account,car (new),1602,<100,>= 7 years,4,male married/widowed,none,3,car or other,Middle1,none,own,2,skilled employee / official,1,yes,yes,1,0.0
-826,<0,18,critical account,car (new),3966,<100,>= 7 years,1,female divorced/separated/married,none,4,real estate,Middle2,bank,rent,3,skilled employee / official,1,yes,yes,0,1.0
+826,<0,18,critical account,car (new),3966,<100,>= 7 years,1,female divorced/separated/married,none,4,real estate,Middle2,bank,rent,3,skilled employee / official,1,yes,yes,0,0.0
 827,no,18,no credits taken,business,4165,<100,1 <= < 4 years,2,male single,none,2,car or other,Middle2,store,own,2,skilled employee / official,2,none,yes,0,1.0
 828,<0,36,existing credits paid back duly till now,car (used),8335,no,>= 7 years,3,male single,none,4,no,Older,none,for free,1,skilled employee / official,1,none,yes,0,1.0
 829,<200,48,delay in paying off,business,6681,no,1 <= < 4 years,4,male single,none,4,no,Middle2,none,for free,1,skilled employee / official,2,yes,yes,1,0.0
@@ -936,7 +936,7 @@
 934,<0,12,existing credits paid back duly till now,radio/television,1498,<100,1 <= < 4 years,4,female divorced/separated/married,none,1,car or other,Younger,bank,own,1,skilled employee / official,1,none,yes,1,0.0
 935,<200,30,delay in paying off,radio/television,1919,<500,< 1 year,4,male single,none,3,no,Middle1,store,own,2,management/ highly qualified employee,1,none,yes,0,0.0
 936,>200,9,existing credits paid back duly till now,radio/television,745,<100,1 <= < 4 years,3,female divorced/separated/married,none,2,real estate,Middle1,none,own,1,unskilled - resident,1,none,yes,0,1.0
-937,<200,6,existing credits paid back duly till now,radio/television,2063,<100,< 1 year,4,male married/widowed,none,3,car or other,Middle1,none,rent,1,management/ highly qualified employee,1,yes,yes,1,0.0
+937,<200,6,existing credits paid back duly till now,radio/television,2063,<100,< 1 year,4,male married/widowed,none,3,car or other,Middle1,none,rent,1,management/ highly qualified employee,1,yes,yes,1,1.0
 938,<200,60,existing credits paid back duly till now,education,6288,<100,1 <= < 4 years,4,male single,none,4,no,Older,none,for free,1,skilled employee / official,1,none,yes,0,0.0
 939,no,24,critical account,car (used),6842,no,1 <= < 4 years,2,male single,none,4,savings agreement/life insurance,Older,none,own,2,management/ highly qualified employee,2,yes,yes,1,1.0
 940,no,12,existing credits paid back duly till now,car (new),3527,no,< 1 year,2,male single,none,3,savings agreement/life insurance,Older,none,own,1,management/ highly qualified employee,2,yes,yes,1,1.0
@@ -953,12 +953,12 @@
 951,<0,36,delay in paying off,business,2145,<100,4 <= < 7 years,2,male single,none,1,car or other,Younger,none,own,2,skilled employee / official,1,yes,yes,0,1.0
 952,<200,24,existing credits paid back duly till now,car (used),4113,<1000,< 1 year,3,female divorced/separated/married,none,4,car or other,Middle1,none,rent,1,skilled employee / official,1,none,yes,0,1.0
 953,no,36,existing credits paid back duly till now,furniture/equipment,10974,<100,unemployed,4,female divorced/separated/married,none,2,car or other,Younger,none,own,2,management/ highly qualified employee,1,yes,yes,0,1.0
-954,<0,12,existing credits paid back duly till now,car (new),1893,<100,1 <= < 4 years,4,female divorced/separated/married,guarantor,4,savings agreement/life insurance,Middle1,none,own,1,skilled employee / official,1,yes,yes,1,1.0
+954,<0,12,existing credits paid back duly till now,car (new),1893,<100,1 <= < 4 years,4,female divorced/separated/married,guarantor,4,savings agreement/life insurance,Middle1,none,own,1,skilled employee / official,1,yes,yes,1,0.0
 955,<0,24,critical account,radio/television,1231,>1000,>= 7 years,4,female divorced/separated/married,none,4,savings agreement/life insurance,Older,none,rent,2,management/ highly qualified employee,1,yes,yes,1,1.0
 956,>200,30,critical account,radio/television,3656,no,>= 7 years,4,male single,none,4,savings agreement/life insurance,Older,store,own,2,unskilled - resident,1,none,yes,1,1.0
 957,<200,9,critical account,radio/television,1154,<100,>= 7 years,2,male single,none,4,real estate,Middle2,none,own,3,unskilled - resident,1,none,yes,1,1.0
 958,<0,28,existing credits paid back duly till now,car (new),4006,<100,1 <= < 4 years,3,male single,none,2,car or other,Older,none,own,1,unskilled - resident,1,none,yes,0,0.0
-959,<200,24,existing credits paid back duly till now,furniture/equipment,3069,<500,>= 7 years,4,male single,none,4,no,Middle1,none,for free,1,skilled employee / official,1,none,yes,1,1.0
+959,<200,24,existing credits paid back duly till now,furniture/equipment,3069,<500,>= 7 years,4,male single,none,4,no,Middle1,none,for free,1,skilled employee / official,1,none,yes,1,0.0
 960,no,6,critical account,radio/television,1740,<100,>= 7 years,2,male married/widowed,none,2,real estate,Middle1,none,rent,2,skilled employee / official,1,none,yes,1,1.0
 961,<200,21,delay in paying off,car (new),2353,<100,1 <= < 4 years,1,male divorced/separated,none,4,savings agreement/life insurance,Older,none,own,2,skilled employee / official,1,none,yes,1,0.0
 962,no,15,existing credits paid back duly till now,car (new),3556,no,1 <= < 4 years,3,male single,none,2,no,Middle1,none,own,1,skilled employee / official,1,none,yes,1,1.0
