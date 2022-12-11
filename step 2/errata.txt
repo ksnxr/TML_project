@@ -2,4 +2,4 @@ On slide 12, fix several small mistakes (e.g. 33-42 instead of 27-33, 27-22 had 
 
 Add explanation of used preprocessing rule for Age on slide 5.
 
-Use more precise terms, e.g. younger instead of young, divorced/separated instead of divorced.
+Use more precise terms, e.g. Younger instead of young, divorced/separated instead of divorced.
